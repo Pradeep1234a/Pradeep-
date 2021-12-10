@@ -4,7 +4,7 @@ class script(object):
 I can Provide Movies in your group 
 To get movie, add bot to your group with admin privillage😍😍😍😍😍
 My Dev=<a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
-Updates Channel =<a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
+Updates Channel =<a href=https://youtube.com/channel/UCZQ2l4LBDBK5hUD0vZwPVAg>Team Eva Maria</a>
 Check alive or not=/start
 To Check status =/stats
 Thank you"""
