@@ -5,8 +5,10 @@ I can Provide Movies in your group
 To get movie, add bot to your group with admin privillage😍😍😍😍😍
 My Dev=<a href=https://youtu.be/Phcb0XGafac>DailyUpdates</a>
 Updates Channel =<a href=https://youtube.com/channel/UCZQ2l4LBDBK5hUD0vZwPVAg>Daily Updates</a>
+Source code =<a href=https://youtube.com/channel/UCZQ2l4LBDBK5hUD0vZwPVAg>repo</a>
 Check alive or not=/start
 To Check status =/stats
+
 Thank you"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
